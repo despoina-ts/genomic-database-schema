@@ -13,10 +13,13 @@ script that executes it, making the project fully reproducible.
 
 ## Repository Structure
 
-genomic-database-schema/
-└── schema/
-├── schema.sql
-└── run_schema.py
+mkdir -p genomic-database-schema/schema
+cd genomic-database-schema
+
+touch schema/schema.sql
+touch schema/run_schema.py
+touch README.md
+
 
 
 - `schema.sql` defines the database, tables, relationships, and inserts
