@@ -75,10 +75,13 @@ pip install mysql-connector-python
 
 ```
 ----
-Ηοw to run : 
+## How to Run
 
+```bash
 git clone https://github.com/despoina-ts/genomic-database-schema.git
 cd genomic-database-schema
+python schema/run_schema.py
+
 python schema/run_schema.py
 
 
