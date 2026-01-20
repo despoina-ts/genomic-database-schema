@@ -13,7 +13,7 @@ script that executes it, making the project fully reproducible.
 
 ## Repository Structure
 
-mkdir -p genomic-database-schema/schema
+`mkdir -p genomic-database-schema/schema`
 cd genomic-database-schema
 
 touch schema/schema.sql
