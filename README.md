@@ -6,8 +6,6 @@ genetic variants. The goal of the project is to demonstrate how genomic
 entities can be modeled, stored, and analyzed using a structured SQL
 database.
 
-The repository contains both the complete database schema and a Python
-script that executes it, making the project fully reproducible.
 
 ---
 
